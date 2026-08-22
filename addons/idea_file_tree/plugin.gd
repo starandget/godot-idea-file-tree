@@ -45,4 +45,3 @@ func _open_path(path: String) -> void:
 	else:
 		get_editor_interface().get_file_system_dock().navigate_to_path(path)
 
-

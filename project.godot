@@ -16,4 +16,3 @@ config/features=PackedStringArray("4.7")
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/idea_file_tree/plugin.cfg")
-

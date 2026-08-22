@@ -159,4 +159,3 @@ func _collect_expanded(item: TreeItem) -> void:
 	while child != null:
 		_collect_expanded(child)
 		child = child.get_next()
-
